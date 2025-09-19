@@ -22,10 +22,7 @@ The repository is organized as follows:
 * Servo motor actuation
 * Embedded web server (ESP32/Arduino IDE)
 
----
-
 ## 2. Sensors, Resources, and Libraries
-
 ### Sensors
 
 * **EMG sensor** – captures electrical activity from muscles to trigger hand movements.
